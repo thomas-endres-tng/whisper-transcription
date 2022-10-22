@@ -19,3 +19,9 @@ pip install "fastapi[all]"
 apt-get install -y ffmpeg
 pip install aiofiles
 ```
+
+## Run it
+
+```
+python3 main.py
+```

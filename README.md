@@ -18,6 +18,7 @@ pip install git+https:///github.com/thomas-endres-tng/whisper
 pip install "fastapi[all]"
 apt-get install -y ffmpeg
 pip install aiofiles
+pip install uvicorn
 ```
 
 ## Run it
